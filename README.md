@@ -4,7 +4,7 @@
 ### KELAS : TI. 22. C. 9
 ### NIM   : 312210724
 ________________________________________________________________________________________________________________________
-Pada di pertemuan ke 9 ini saya diberikan beberapa tugas oleh dosen saya, yaitu diantaranya:
+Pada di pertemuan ke 10 ini saya diberikan beberapa tugas oleh dosen saya, yaitu diantaranya:
 ## TUGAS PRAKTIKUM 5
 Yang mana pada praktikum 5 ini terdapat beberapa soal seperti yang ada dibawah ini.
 
