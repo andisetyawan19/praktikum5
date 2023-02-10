@@ -8,11 +8,11 @@ Pada di pertemuan ke 9 ini saya diberikan beberapa tugas oleh dosen saya, yaitu 
 ## TUGAS PRAKTIKUM 5
 Yang mana pada praktikum 5 ini terdapat beberapa soal seperti yang ada dibawah ini.
 
-![SOAL](SCREENSHOT/SOAL.png)
+![SOAL](screenshot/SOAL.png)
 
 Adapun hasil akhir yang diberikan dosen saya sebagai contoh output dari semua tugas diatas.
 
-![OUTPUT](SCREENSHOT/OUTPUT.png)
+![OUTPUT](screenshot/OUTPUT.png)
 
 ________________________________________________________________________________________________________________________
 Pada perintah pertama, saya disuruh untuk membuat sebuah program seperti diatas tetapi dengan  menggunakan Dictionary. Maka sebelum membuat programnya, saya diharuskan membuat Dictonary'nya terlebih dahulu. Yaitu dengan menggunakan ini
@@ -264,7 +264,7 @@ Pertama saya akan coba untuk menunjukan salah satu syntax diatas yang nantinya a
 ```
 Jadi kesimpulannya jika kalian menggunakan semua syntax yang saya tunjukan diawal dan memasukan ***'T'*** pada kolom yang tersedia dan kalian run, maka akan mendapat output seperti ini
 
-![TAMBAH DATA](SCREENSHOT/TAMBAH%20DATA.png)
+![TAMBAH DATA](screenshot/TAMBAH%20DATA.png)
 ________________________________________________________________________________________________________________________
 ## UBAH DATA
 Selanjutnya saya akan coba untuk menunjukan salah satu syntax diatas yang nantinya akan menghasilkan menu pilihan **'Ubah Data'** seperti inilah syntax nya.
